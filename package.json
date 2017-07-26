@@ -6,9 +6,17 @@
   "repository": "https://github.com/lueimg/fullstack-pure-react.git",
   "author": "luis <luis@luiss-MacBook-Pro.local>",
   "license": "MIT",
+  "scripts": {
+    "dev": "pm2 start lib/server.js --watch"
+  },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.3.0",
     "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "pm2": "^2.6.1"
   }
 }
