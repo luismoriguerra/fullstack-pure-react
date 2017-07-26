@@ -1,0 +1,14 @@
+{
+  "name": "advreact",
+  "version": "1.0.0",
+  "description": "adv react",
+  "main": "lib/server.js",
+  "repository": "https://github.com/lueimg/fullstack-pure-react.git",
+  "author": "luis <luis@luiss-MacBook-Pro.local>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
