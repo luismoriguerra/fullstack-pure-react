@@ -1,3 +1,5 @@
 node_modules
-public/
+public/vendor.js
+public/app.js
+public/bundle.js
 coverage/
